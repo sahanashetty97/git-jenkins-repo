@@ -6,9 +6,9 @@ stage('Hello') {
 echo 'Hello World'
 }
 }
-stage('Vinay') {
+stage('Sahana ') {
 steps {
-echo 'Hello vinay for testing'
+echo 'Hello Sahana for testing'
 }
 }
  stage('Vineeth') {
